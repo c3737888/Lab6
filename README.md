@@ -33,7 +33,7 @@ Two problems are implemented:
 
 ## Problem 1 — ADC with Interrupts
 
-Directory: `lab6/`
+Directory: `lab6_1/`
 
 ### Implementation
 
@@ -62,7 +62,7 @@ ADC Value: 943, Temperature: 28 C
 
 ## Problem 2 — ADC with DMA
 
-Directory: `lab6_dma/`
+Directory: `lab6_2/`
 
 ### Implementation
 
